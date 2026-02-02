@@ -11,7 +11,7 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Assessing Controls and Compliance | <a href="https://github.com/ivanszeto11/Security-Audit-Assignment/tree/main">Security Audit Assignment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -44,5 +44,5 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 </div>
 
 ## Projects
-- Security Audit Assignment
+- <a href="https://github.com/ivanszeto11/Security-Audit-Assignment/tree/main">Security Audit Assignment</a>
 - SOC Automation Project
