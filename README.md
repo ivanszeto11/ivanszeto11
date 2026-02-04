@@ -14,7 +14,7 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 | Assessing Controls and Compliance | <a href="https://github.com/ivanszeto11/Security-Audit-Assignment">Security Audit Assignment</a>|
 | Incident Analysis and Reporting Using NIST CSF | <a href="https://github.com/ivanszeto11/Incident-Report-Assignment">Incident Report Assignment</a>|
 | Managing File Permissions in Linux         | <a href="https://github.com/ivanszeto11/Manage-Authorization-Lab">Manage Authorization Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Querying Databases with SQL Filters      | <a href="https://github.com/ivanszeto11/SQL-Filters-Lab">SQL Filters Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -23,12 +23,7 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-000000?&style=for-the-badge&logo=tcpdump&logoColor=white" />
 </div>
 
 ### SIEM
@@ -47,3 +42,4 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 - <a href="https://github.com/ivanszeto11/Security-Audit-Assignment">Security Audit Assignment</a>
 - <a href="https://github.com/ivanszeto11/Incident-Report-Assignment">Incident Report Assignment</a>
 - <a href="https://github.com/ivanszeto11/Manage-Authorization-Lab">Manage Authorization Lab</a>
+- <a href="https://github.com/ivanszeto11/SQL-Filters-Lab">SQL Filters Lab</a>
