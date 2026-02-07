@@ -16,7 +16,7 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 | Managing File Permissions in Linux         | <a href="https://github.com/ivanszeto11/Manage-Authorization-Lab">Manage Authorization Lab</a>|
 | Querying Databases with SQL Filters      | <a href="https://github.com/ivanszeto11/SQL-Filters-Lab">SQL Filters Lab</a>|
 | Performing a Risk Assessment                  | <a href="https://github.com/ivanszeto11/Vulnerability-Assessment-Assignment/tree/main">Vulnerability Assessment Assignment</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Writing a Python Algorithm | <a href="https://github.com/ivanszeto11/Python-Automation-Lab/tree/main">Python Automation Lab</a>|
 
 ## Tools
 
@@ -43,4 +43,5 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 - <a href="https://github.com/ivanszeto11/Incident-Report-Assignment">Incident Report Assignment</a>
 - <a href="https://github.com/ivanszeto11/Manage-Authorization-Lab">Manage Authorization Lab</a>
 - <a href="https://github.com/ivanszeto11/SQL-Filters-Lab">SQL Filters Lab</a>  
-- <a href="https://github.com/ivanszeto11/Vulnerability-Assessment-Assignment/tree/main">Vulnerability Assessment Assignment</a>
+- <a href="https://github.com/ivanszeto11/Vulnerability-Assessment-Assignment/tree/main">Vulnerability Assessment Assignment</a>  
+- <a href="https://github.com/ivanszeto11/Python-Automation-Lab/tree/main">Python Automation Lab</a>
