@@ -47,4 +47,4 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 - <a href="https://github.com/ivanszeto11/Python-Automation-Lab/tree/main">Python Automation Lab</a>
 - <a href="https://github.com/ivanszeto11/Boogeyman-1-Lab">Boogeyman 1 Lab</a>
 - <a href="https://github.com/ivanszeto11/Boogeyman-2-Lab">Boogeyman 2 Lab</a>
-- <a href="">Boogeyman 3 Lab</a>
+- <a href="https://github.com/ivanszeto11/Boogeyman-3-Lab">Boogeyman 3 Lab</a>
