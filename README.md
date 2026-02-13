@@ -11,6 +11,10 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Log Analysis with a SIEM  | <a href="https://github.com/ivanszeto11/Boogeyman-3-Lab">Boogeyman 3 Lab</a>|
+| Analyzing a Packet Capture with Wireshark   | <a href="https://github.com/ivanszeto11/Boogeyman-1-Lab">Boogeyman 1 Lab</a>|
+| Inspecting PowerShell Logs        | <a href="https://github.com/ivanszeto11/Boogeyman-1-Lab">Boogeyman 1 Lab</a>|
+| Memory Forensics Using Volatility | <a href="https://github.com/ivanszeto11/Boogeyman-2-Lab">Boogeyman 2 Lab</a>|
 | Assessing Controls and Compliance | <a href="https://github.com/ivanszeto11/Security-Audit-Assignment">Security Audit Assignment</a>|
 | Incident Analysis and Reporting Using NIST CSF | <a href="https://github.com/ivanszeto11/Incident-Report-Assignment">Incident Report Assignment</a>|
 | Managing File Permissions in Linux         | <a href="https://github.com/ivanszeto11/Manage-Authorization-Lab">Manage Authorization Lab</a>|
