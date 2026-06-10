@@ -24,6 +24,16 @@ I am eager to begin helping protect people using my cybersecurity knowledge and 
 
 ## Tools
 
+### Ticketing
+<div>
+    <img src="https://img.shields.io/badge/-osTicket-0A74DA?&style=for-the-badge&logo=osticket&logoColor=white" />
+</div>
+
+### Cloud 
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
