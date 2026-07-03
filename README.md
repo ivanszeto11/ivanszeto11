@@ -5,8 +5,8 @@ I am a self-taught IT Professional dedicated to continuously expanding my skill 
 
 ## IT Projects
 
-- osTicket Post Install Configuration
-- osTicket Ticket Lifecycle
+- osTicket - Post-Install Configurations
+- osTicket - Ticket Lifecycle
 
 ## Cybersecurity Projects
 
