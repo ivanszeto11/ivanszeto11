@@ -5,8 +5,8 @@ I am a self-taught IT Professional dedicated to continuously expanding my skill 
 
 ## IT Projects
 
-- osTicket - Post-Install Configurations
-- osTicket - Ticket Lifecycle
+- <a href="https://github.com/ivanszeto11/osTicket-Config">osTicket - Post-Install Configurations</a>
+- <a href="">osTicket - Ticket Lifecycle</a>
 
 ## Cybersecurity Projects
 
